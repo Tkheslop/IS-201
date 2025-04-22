@@ -1,0 +1,46 @@
+body{
+    font-family: Papyrus, Georgia, 'Times New Roman', Times, serif;
+    background-color: hsla(2,2,39);
+    color: black;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/011/863/764/original/strawberry-ice-cream-background-with-cone-texture-and-sprinkles-ornament-free-vector.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+a{
+color: black;
+background-color: darkgray;
+}
+h1,h2{
+    text-align: center;
+}
+/* img */
+}
+img{
+    border: 5px dashed blue;
+    padding: 5px;
+    height: 250px;
+/* display: block; */
+}
+.common_header{
+    font-family: chiller;
+    color: rgb(244, 73, 76);
+    border: 5px dashed green;
+    font-size: 400% xx-large;
+    font-weight: bolder;
+    background-color: blue;
+}
+.common_header:hover{
+    font-size: 150%;
+    color: red;
+    border: 5px solid skyblue;
+}
+li{
+    width: fit-content;
+}
+li:hover{
+    text-decoration: underline;
+    background-color: darkgray;
+}
+footer{
+    position: fixed;
+    color: black;
+}
